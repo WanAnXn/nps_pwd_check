@@ -1,1 +1,2 @@
-# nps_pwd_check
+此脚本的主要功能是为了检测nps默认口令...
+使用方法:python Nps_login.py http://xxxxx.com:8088
